@@ -6,6 +6,7 @@ language: 'en-uk'
 
 # use baseurl only if you need to publish your site outside the root directory
 # baseurl: /version2
+baseurl: ""
 
 # Website info
 title: blog.zavrel.net
