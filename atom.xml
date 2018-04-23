@@ -51,5 +51,20 @@
       </item>
       
     
+      
+      <item>
+        <title>Talker | Reloaded (Part 2)</title>
+        
+          <description>&lt;p&gt;A year ago, I wrote the article about &lt;a href=&quot;https://dev.zavrel.net/talker-reloaded-part-1-e817aedd2b49&quot;&gt;Talker&lt;/a&gt;. How it all started and what I plan to do with it next. Well, I’ve realized I wouldn’t reload Talker in a way described in that article. Instead, I will teach how to create Talker from scratch.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 19 Mar 2018 23:00:39 +0000</pubDate>
+        <link>
+        /talker-reloaded-part-2</link>
+        <guid isPermaLink="true">/talker-reloaded-part-2</guid>
+      </item>
+      
+    
   </channel>
 </rss>

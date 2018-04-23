@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-23T14:27:16+00:00</updated><id>/</id><title type="html">blog.zavrel.net</title><subtitle>blog.zavrel.net</subtitle><entry><title type="html">When You Hit the Wall</title><link href="/another-post-with-cover-image" rel="alternate" type="text/html" title="When You Hit the Wall" /><published>2018-04-15T10:00:00+00:00</published><updated>2018-04-15T10:00:00+00:00</updated><id>/another-post-with-cover-image</id><content type="html" xml:base="/another-post-with-cover-image">&lt;p&gt;I strongly believe that the most important skill that makes the difference between the success and the failure is the ability to overcome the phase which will inevitably occur most of the time, especially on long-term projects, hitting the wall.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-23T14:33:02+00:00</updated><id>/</id><title type="html">blog.zavrel.net</title><subtitle>blog.zavrel.net</subtitle><entry><title type="html">When You Hit the Wall</title><link href="/another-post-with-cover-image" rel="alternate" type="text/html" title="When You Hit the Wall" /><published>2018-04-15T10:00:00+00:00</published><updated>2018-04-15T10:00:00+00:00</updated><id>/another-post-with-cover-image</id><content type="html" xml:base="/another-post-with-cover-image">&lt;p&gt;I strongly believe that the most important skill that makes the difference between the success and the failure is the ability to overcome the phase which will inevitably occur most of the time, especially on long-term projects, hitting the wall.&lt;/p&gt;
 
 &lt;p&gt;Hitting the wall means getting to the phase when you’re no longer interested in your project, the initial excitement is far gone and all that’s left is the mundane grinding. This is the time when most projects get canceled.&lt;/p&gt;
 
@@ -120,4 +120,26 @@
 
 &lt;h3 id=&quot;where-can-you-get-thesystem2&quot;&gt;Where Can You Get THE SYSTEM2?&lt;/h3&gt;
 
-&lt;p&gt;Go to Udemy.com and just enroll in my course: &lt;a href=&quot;https://www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/&quot; title=&quot;https://www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/&quot;&gt;https://www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/&lt;/a&gt;&lt;/p&gt;</content><author><name>Jan Zavrel</name></author><category term="productivity" /><summary type="html">I’m working with THE SYSTEM2 every single day. I use it to track my personal tasks, my online business projects and even my daily job projects. I can’t even imagine how I could manage all my activities without it.</summary></entry></feed>
+&lt;p&gt;Go to Udemy.com and just enroll in my course: &lt;a href=&quot;https://www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/&quot; title=&quot;https://www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/&quot;&gt;https://www.udemy.com/evernote-with-the-system2-productivity-gtd-on-steroids/&lt;/a&gt;&lt;/p&gt;</content><author><name>Jan Zavrel</name></author><category term="productivity" /><summary type="html">I’m working with THE SYSTEM2 every single day. I use it to track my personal tasks, my online business projects and even my daily job projects. I can’t even imagine how I could manage all my activities without it.</summary></entry><entry><title type="html">Talker | Reloaded (Part 2)</title><link href="/talker-reloaded-part-2" rel="alternate" type="text/html" title="Talker | Reloaded (Part 2)" /><published>2018-03-19T23:00:39+00:00</published><updated>2018-03-19T23:00:39+00:00</updated><id>/talker-reloaded-part-2</id><content type="html" xml:base="/talker-reloaded-part-2">&lt;p&gt;A year ago, I wrote the article about &lt;a href=&quot;https://dev.zavrel.net/talker-reloaded-part-1-e817aedd2b49&quot;&gt;Talker&lt;/a&gt;. How it all started and what I plan to do with it next. Well, I’ve realized I wouldn’t reload Talker in a way described in that article. Instead, I will teach how to create Talker from scratch.&lt;/p&gt;
+
+&lt;h3 id=&quot;meet-my-newcourse&quot;&gt;Meet my new course&lt;/h3&gt;
+
+&lt;p&gt;I am currently working on a new course focused on full-stack web development. A few months ago I finished the script which has over 127.000 words and now I’m in the middle of the production of the course.&lt;/p&gt;
+
+&lt;p&gt;This course is aimed for total beginners who have no previous experience with web development. My goal is to teach them everything they need to know so they can start working on their own web applications once they finish this course.&lt;/p&gt;
+
+&lt;p&gt;In the course, I’ll explain both the front-end and back-end technologies. I will cover HTML, CSS, and Javascript, but also PHP and MySQL. I will discuss different development environments like Docker, Vagrant or XAMPP.&lt;/p&gt;
+
+&lt;p&gt;Once students acquire the basic knowledge of these technologies, we will move together to the fun part. We will start building Talker from scratch. Step by step, we will create a database-driven web application with the logic coded in PHP. We will use Bootstrap to make the whole application mobile-ready and responsive.&lt;/p&gt;
+
+&lt;h3 id=&quot;take-a-sneakpeek&quot;&gt;Take a sneak peek&lt;/h3&gt;
+
+&lt;p&gt;Ok, here are some images of what you can expect. I hope you’ll join me as a student once the course is ready!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img04.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Jan Zavrel</name></author><category term="web development" /><summary type="html">A year ago, I wrote the article about Talker. How it all started and what I plan to do with it next. Well, I’ve realized I wouldn’t reload Talker in a way described in that article. Instead, I will teach how to create Talker from scratch.</summary></entry></feed>
