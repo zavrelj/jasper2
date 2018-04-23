@@ -15,3 +15,5 @@ tags:
 Hi, this is my first post. I wonder how it will look :)
 
 ![](/uploads/article-cover-image-test-1280x720.png)
+
+![](uploads/blog-icon.png)
