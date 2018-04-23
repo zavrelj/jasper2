@@ -1,6 +1,6 @@
 ---
 title: When You Hit the Wall
-date: 2018-04-23 00:00:00 +0000
+date: 2018-04-15 10:00:00 +0000
 layout: post
 current: post
 cover: "/uploads/when-you-hit-the-wall-article-cover.jpeg"
