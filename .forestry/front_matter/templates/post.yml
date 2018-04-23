@@ -18,3 +18,40 @@ fields:
   name: cover
   label: COVER
   description: Upload cover image (1280x720)
+- type: boolean
+  name: navigation
+  label: NAVIGATION
+  description: Turn it on
+- type: text
+  name: title
+  label: TITLE
+  description: The title of the post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: DATE
+  description: The date of the post
+  config:
+    date_format: MM/DD/YYYY
+    required: true
+- type: tag_list
+  name: tags
+  label: TAGS
+  description: Insert tags
+- type: text
+  name: class
+  label: CLASS
+  description: Type "post-template"
+  config:
+    required: true
+- type: text
+  name: subclass
+  label: SUBCLASS
+  description: Type "post" space "tag-" name of the tag selected above
+- type: text
+  name: author
+  label: AUTHOR
+  description: Type the name of the author of the post
+  config:
+    required: true
