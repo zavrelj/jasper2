@@ -11,7 +11,7 @@
 
 
 
-    <title>blog.zavrel.net</title>
+    <title>Getting Started - blog.zavrel.net</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -25,19 +25,19 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="blog.zavrel.net" />
     <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="/" />
+    <link rel="canonical" href="/tag/getting-started/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="blog.zavrel.net" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="blog.zavrel.net" />
+    <meta property="og:title" content="Getting Started - blog.zavrel.net" />
     <meta property="og:description" content="blog.zavrel.net" />
-    <meta property="og:url" content="/" />
+    <meta property="og:url" content="/tag/getting-started/" />
     <meta property="og:image" content="/assets/images/blog-cover.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/ghost" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="blog.zavrel.net" />
+    <meta name="twitter:title" content="Getting Started - blog.zavrel.net" />
     <meta name="twitter:description" content="blog.zavrel.net" />
     <meta name="twitter:url" content="/" />
     <meta name="twitter:image" content="/assets/images/blog-cover.jpg" />
@@ -57,7 +57,7 @@
         "name": "blog.zavrel.net",
         "logo": "/assets/images/blog-icon-zavrel-consulting.png"
     },
-    "url": "/",
+    "url": "/tag/getting-started/",
     "image": {
         "@type": "ImageObject",
         "url": "/assets/images/blog-cover.jpg",
@@ -66,7 +66,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "/"
+        "@id": "/tag/getting-started/"
     },
     "description": "blog.zavrel.net"
 }
@@ -81,31 +81,30 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="blog.zavrel.net" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Tag Page" href="/feed.xml" />
 
 
 </head>
-<body class="home-template">
+<body class="tag-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
-        <!-- < default -->
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
+        <!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer " style="background-image:  url(/assets/images/blog-cover.jpg) ">
+<!-- #tag -->
+<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
+
+
+<header class="site-header outer no-cover">
     <div class="inner">
-        <div class="site-header-content">
-            <h1 class="site-title">
-                
-                    <img class="site-logo" src="/assets/images/blog-icon-zavrel-consulting.png" alt="blog.zavrel.net"/>
-                
-            </h1>
-            <h2 class="site-description">blog.zavrel.net</h2>
-        </div>
         <nav class="site-nav">
     <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon-zavrel-consulting.png" alt="blog.zavrel.net" /></a>
+            
         
         
             <ul class="nav" role="menu">
@@ -134,17 +133,25 @@ into the {body} of the default.hbs template -->
     </div>
 </nav>
 
+        <div class="site-header-content">
+            <h1 class="site-title">Getting-started</h1>
+            <h2 class="site-description">
+                
+    			    A collection of 1 posts
+                
+            </h2>
+        </div>
     </div>
 </header>
+<!-- tag -->
 
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-
         <div class="post-feed">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
-    <article class="post-card home-template">
+    <article class="post-card tag-template">
         
             <a class="post-card-image-link" href="/another-post-with-cover-image">
                 <div class="post-card-image" style="background-image: url(/uploads/article-cover-image-test-1280x720.png)"></div>
@@ -201,7 +208,6 @@ Yay! It works!
 
 
         </div>
-
     </div>
 </main>
 
