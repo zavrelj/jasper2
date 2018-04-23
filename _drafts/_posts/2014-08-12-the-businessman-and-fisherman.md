@@ -2,12 +2,12 @@
 layout: post
 current: post
 cover: assets/images/water.jpg
-navigation: True
+navigation: true
 title: The Businessman & The Fisherman
-date: 2014-08-12 10:18:00
+date: 2014-08-12 10:18:00 +0000
 tags: fables
 class: post-template
-subclass: 'post tag-fables'
+subclass: post tag-fables
 logo: assets/images/ghost.png
 author: hannah
 ---
