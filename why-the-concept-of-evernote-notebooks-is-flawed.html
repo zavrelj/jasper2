@@ -284,22 +284,6 @@ into the {body} of the default.hbs template -->
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
             
-                <section class="post-full-comments">
-                    <div id="disqus_thread"></div>
-                    <script>
-                        var disqus_config = function () {
-                            this.page.url = '/';
-                            this.page.identifier = 'blog.zavrel.net';
-                        };
-                        (function() {
-                            var d = document, s = d.createElement('script');
-                            s.src = 'https://blog-zavrel-net.disqus.com/embed.js';
-                            s.setAttribute('data-timestamp', +new Date());
-                            (d.head || d.body).appendChild(s);
-                        })();
-                    </script>
-                </section>
-            
 
         </article>
 
@@ -535,14 +519,16 @@ into the {body} of the default.hbs template -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
                 <section class="copyright"><a href="/">blog.zavrel.net</a> &copy; 2018</section>
+                <!--
                 <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
-                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
+                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a>
+                </section>
+                -->
                 <nav class="site-footer-nav">
                     <a href="/">Latest Posts</a>
                     <a href="https://facebook.com/zavrelj" target="_blank" rel="noopener">Facebook</a>
                     <a href="https://twitter.com/zavrelj" target="_blank" rel="noopener">Twitter</a>
-                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
                 </nav>
             </div>
         </footer>
