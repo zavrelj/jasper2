@@ -27,7 +27,7 @@ facebook: zavrelj # replace by your username
 
 # Disqus
 disqus: True
-disqus_shortname: zavrelj # replace with your disqus username
+disqus_shortname: blog-zavrel-net # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
