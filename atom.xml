@@ -78,25 +78,6 @@
     
       
       <item>
-        <title>Making your site private</title>
-        
-          <description>&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
-&lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
-&lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you're working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
-&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 06:00:00 +0000</pubDate>
-        <link>
-        /private-sites</link>
-        <guid isPermaLink="true">/private-sites</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>Out to Sea</title>
         
           <description>&lt;p&gt;I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.&lt;/p&gt;
