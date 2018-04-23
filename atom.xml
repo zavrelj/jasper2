@@ -153,36 +153,6 @@
     
       
       <item>
-        <title>Setting up your own Ghost theme</title>
-        
-          <description>&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
-&lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
-&lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;Ghost Theme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/marketplace.jpg&quot; alt=&quot;marketplace&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
-&lt;p&gt;The best way to learn how to write your own Ghost theme is to have a look at &lt;a href=&quot;https://github.com/TryGhost/Casper&quot;&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;default.hbs&lt;/code&gt; is the main template file, all contexts will load inside this file unless specifically told to use a different template.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;post.hbs&lt;/code&gt; is the file used in the context of viewing a post.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;index.hbs&lt;/code&gt; is the file used in the context of viewing the home page.&lt;/li&gt;
-&lt;li&gt;and so on&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We've got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
-&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 04:00:00 +0000</pubDate>
-        <link>
-        /themes</link>
-        <guid isPermaLink="true">/themes</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>The Businessman &amp; The Fisherman</title>
         
           <description>&lt;p&gt;An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.&lt;/p&gt;
