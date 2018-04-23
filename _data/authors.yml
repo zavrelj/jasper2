@@ -74,3 +74,13 @@ martin:
   facebook: False
   twitter: False
   cover: False
+zavrelj:
+  username: zavrelj
+  name: Jan Zavrel
+  url_full: https://www.zavrel.net/
+  url: www.zavrel.net
+  bio: iOS & Web Developer, Author, Teacher, Lifelong Learner
+  picture: assets/images/hannah.jpg
+  facebook: zavrelj
+  twitter: zavrelj
+  cover: assets/images/hannah-cover.jpg
