@@ -2,12 +2,12 @@
 layout: post
 current: post
 cover: assets/images/bus.jpg
-navigation: True
+navigation: true
 title: Gettysburg Address
-date: 1863-11-19 10:18:00
-tags:
+date: 1863-11-19 10:18:00 +0000
+tags: 
 class: post-template
-subclass: 'post'
+subclass: post
 author: abraham
 ---
 
