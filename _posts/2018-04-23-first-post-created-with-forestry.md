@@ -8,6 +8,8 @@ navigation: true
 class: post-template
 subclass: post tag-name-of-the-tag
 author: zavrelj
-tags: []
+tags:
+- getting-started
+- docker
 ---
 Hi, this is my first post. I wonder how it will look :)
