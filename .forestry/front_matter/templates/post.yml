@@ -1,0 +1,20 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: LAYOUT
+  config:
+    required: true
+  description: just type "post" here
+- type: text
+  name: current
+  label: CURRENT
+  description: just type "post" here
+  config:
+    required: true
+- type: file
+  name: cover
+  label: COVER
+  description: Upload cover image (1280x720)
