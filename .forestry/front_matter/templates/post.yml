@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/another-post-with-cover-image.md
 - _posts/2018-04-23-testing-cover-images-again.md
 hide_body: false
 is_partial: false
