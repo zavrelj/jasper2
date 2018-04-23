@@ -3,7 +3,7 @@ title: Talker | Reloaded (Part 2)
 date: 2018-03-19 23:00:39 +0000
 layout: post
 current: post
-cover: "/uploads/talker-reloaded-part2-cover.png"
+cover: "/uploads/talker-reloaded-part2-cover-1.png"
 navigation: true
 tags:
 - web development
