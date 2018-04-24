@@ -30,7 +30,7 @@ disqus: False
 disqus_shortname: blog-zavrel-net # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-118111969-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
