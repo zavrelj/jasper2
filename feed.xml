@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-24T17:16:39+00:00</updated><id>/</id><title type="html">blog.zavrel.net</title><subtitle>blog.zavrel.net</subtitle><entry><title type="html">When You Hit the Wall</title><link href="/another-post-with-cover-image" rel="alternate" type="text/html" title="When You Hit the Wall" /><published>2018-04-15T10:00:00+00:00</published><updated>2018-04-15T10:00:00+00:00</updated><id>/another-post-with-cover-image</id><content type="html" xml:base="/another-post-with-cover-image">&lt;p&gt;I strongly believe that the most important skill that makes the difference between the success and the failure is the ability to overcome the phase which will inevitably occur most of the time, especially on long-term projects, hitting the wall.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-25T10:34:27+00:00</updated><id>/</id><title type="html">blog.zavrel.net</title><subtitle>blog.zavrel.net</subtitle><entry><title type="html">When You Hit the Wall</title><link href="/another-post-with-cover-image" rel="alternate" type="text/html" title="When You Hit the Wall" /><published>2018-04-15T10:00:00+00:00</published><updated>2018-04-15T10:00:00+00:00</updated><id>/another-post-with-cover-image</id><content type="html" xml:base="/another-post-with-cover-image">&lt;p&gt;I strongly believe that the most important skill that makes the difference between the success and the failure is the ability to overcome the phase which will inevitably occur most of the time, especially on long-term projects, hitting the wall.&lt;/p&gt;
 
 &lt;p&gt;Hitting the wall means getting to the phase when you’re no longer interested in your project, the initial excitement is far gone and all that’s left is the mundane grinding. This is the time when most projects get canceled.&lt;/p&gt;
 
@@ -142,4 +142,84 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img04.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Jan Zavrel</name></author><category term="web development" /><summary type="html">A year ago, I wrote the article about Talker. How it all started and what I plan to do with it next. Well, I’ve realized I wouldn’t reload Talker in a way described in that article. Instead, I will teach how to create Talker from scratch.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/uploads/talker-reloaded-part2-img04.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Jan Zavrel</name></author><category term="web development" /><summary type="html">A year ago, I wrote the article about Talker. How it all started and what I plan to do with it next. Well, I’ve realized I wouldn’t reload Talker in a way described in that article. Instead, I will teach how to create Talker from scratch.</summary></entry><entry><title type="html">How to Resize Images on Mac Like a Pro</title><link href="/how-to-resize-images-on-mac-like-a-pro" rel="alternate" type="text/html" title="How to Resize Images on Mac Like a Pro" /><published>2018-02-27T23:00:58+00:00</published><updated>2018-02-27T23:00:58+00:00</updated><id>/how-to-resize-images-on-mac-like-a-pro</id><content type="html" xml:base="/how-to-resize-images-on-mac-like-a-pro">&lt;p&gt;Resizing images is very handy, especially with all those megapixels thrown at us from the latest and greatest smartphones.&lt;/p&gt;
+
+&lt;p&gt;I don’t know how about you, but I don’t really need 10MB photos of some reference materials. There are a lot of third-party apps and online services for shrinking photos or images to some meaningful (sane) size, but if you’re using Mac, you can just select all the images you need to shrink and use one simple shortcut, like &lt;strong&gt;⇧ ⌘&lt;/strong&gt; &lt;strong&gt;S&lt;/strong&gt; to do the job for you.&lt;/p&gt;
+
+&lt;p&gt;Of course, you need to set this up first, because it’s not a built-in feature, and in this article, I will show you how!&lt;/p&gt;
+
+&lt;h3 id=&quot;meet-automator&quot;&gt;&lt;strong&gt;Meet Automator&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Automator is a great app. You can find it on any Mac with Mac OS X v10.4 (Tiger) or newer. It’s very powerful, and it’s pretty sad that most Mac users don’t even know about its existence.&lt;/p&gt;
+
+&lt;p&gt;Fire up the Spotlight with the &lt;strong&gt;⌘ SPACE&lt;/strong&gt; combo and type &lt;strong&gt;automator&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once it appears, just hit &lt;strong&gt;ENTER&lt;/strong&gt; to run it. You should be greeted with similar window as seen below. If not, just select &lt;strong&gt;File&lt;/strong&gt; -&amp;gt; &lt;strong&gt;New&lt;/strong&gt; (or hit &lt;strong&gt;⌘ N&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;create-a-newservice&quot;&gt;&lt;strong&gt;Create a New Service&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;You can do a lot with Automator, but let’s not get too excited here. We just need to create a new Service to move on, so select &lt;strong&gt;Service&lt;/strong&gt; instead of default &lt;strong&gt;Workflow&lt;/strong&gt; and hit the &lt;strong&gt;Choose&lt;/strong&gt; button:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ll get this empty window and the fun can begin!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img04.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, make sure to select the &lt;strong&gt;Image files&lt;/strong&gt; option from the top row, so it looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img05.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, go to &lt;strong&gt;Files &amp;amp; Folders&lt;/strong&gt; in the left pane and double-click the &lt;strong&gt;Copy Finder Items&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img06.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This will allow you to keep the original images for whatever reason and place the resized versions in a specific folder. I suggest you create a new folder in &lt;strong&gt;Documents&lt;/strong&gt; and name it &lt;strong&gt;resized_720p&lt;/strong&gt; for example. Next, you will simply select this folder instead of the default &lt;strong&gt;Desktop&lt;/strong&gt; option in the drop-down menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img07.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, double-click the &lt;strong&gt;Rename Finder Items&lt;/strong&gt; option and select &lt;strong&gt;Add Text&lt;/strong&gt; from the drop-down menu. Type the &lt;strong&gt;_720p&lt;/strong&gt; postfix:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img08.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, go to &lt;strong&gt;Photos&lt;/strong&gt; and double-click the &lt;strong&gt;Scale Images&lt;/strong&gt; option. When asked, click the &lt;strong&gt;Don’t Add&lt;/strong&gt; button:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img09.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Type &lt;strong&gt;1280&lt;/strong&gt; as the new size, so you’ll get most of the time the resolution of 1280x720 pixels, also known as 720p, hence the name of the folder :)&lt;/p&gt;
+
+&lt;p&gt;Make sure your settings look like this now:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Save the changes with &lt;strong&gt;⌘ S&lt;/strong&gt; combo and name this service &lt;strong&gt;resize_720p&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the file is saved, you can quit Automator.&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-testthis&quot;&gt;Let’s test this!&lt;/h3&gt;
+
+&lt;p&gt;Right-click the image of your choice and select &lt;strong&gt;resize_720p&lt;/strong&gt; from the list of services. Resized copy of the image should appear in the &lt;strong&gt;resized_720p&lt;/strong&gt; folder. And by the way, this works even with multiple images selected!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;like-apro&quot;&gt;&lt;strong&gt;Like a Pro!&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;This is already pretty good, but let’s take it a step further by creating a shortcut to run this service so you don’t have to select it from the drop-down menu.&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;strong&gt;System Preferences&lt;/strong&gt;, select &lt;strong&gt;Keyboard&lt;/strong&gt; and locate your &lt;strong&gt;resize_720p&lt;/strong&gt; service in the list of &lt;strong&gt;Services:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click the &lt;strong&gt;Add Shortcut&lt;/strong&gt; button and type the shortcut, make sure it’s not taken by any other application. I chose &lt;strong&gt;⇧&lt;/strong&gt; &lt;strong&gt;⌘&lt;/strong&gt; &lt;strong&gt;S&lt;/strong&gt; (S for “size” to remember it easily) and should work for you as well:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now back to your images. Select as many as you like and use this shortcut to let the magic happen! :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/resize-images-on-mac-img15.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Jan Zavrel</name></author><category term="productivity" /><summary type="html">Resizing images is very handy, especially with all those megapixels thrown at us from the latest and greatest smartphones.</summary></entry></feed>
