@@ -3,7 +3,7 @@ title: Make the Right Choices
 date: 2017-06-07 22:00:38 +0000
 layout: post
 current: post
-cover: "/uploads/Screen Shot 2018-04-26 at 12.13.42.png"
+cover: "/uploads/make-the-right-choices-cover.png"
 navigation: true
 tags:
 - productivity
