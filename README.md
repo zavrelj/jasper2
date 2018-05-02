@@ -11,11 +11,11 @@ These files needed to be modified in order to work:
 * _layouts/post.html (for article cover and for author card)
 * _layouts/author.html ()
 
-As you can see from the code bellow, it's not that hard after all:
+As you can see from the code bellow, it's all about adding **| remove_first: '/'** behind the **post.url**:
 
 ```
 {% if post.cover %}
-<a class=”post-card-image-link” href=”{{ site.baseurl }}{{ post.url | **remove_first: ‘/’** }}”>
+<a class=”post-card-image-link” href=”{{ site.baseurl }}{{ post.url | remove_first: ‘/’ }}”>
 <div class=”post-card-image” style=”background-image: url({{ site.baseurl }}{{ post.cover }})”></div>
 </a>
 {% endif %}
