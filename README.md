@@ -1,3 +1,17 @@
+## Modifications to the original Jasper2 theme
+
+This is a slightly modified version of the original Jasper2 theme by Jekyller which I used to create my blog at https://blog.zavrel.net
+
+There's a problem with the **baseurl** which I wasn't able to figure out more elegantly, so I just opted for removing double slashes (//) in order to get proper URLs.
+
+These files needed to be modified in order to work:
+_includes/post-card.html (for article cover and for author image)
+_includes/post-card-next.html (post-card-image and author-profile-image)
+_includes/post-card-previous.html (post-card-image and author-profile-image)
+_layouts/post.html (for article cover and for author card)
+_layouts/author.html ()
+
+
 ## Jasper2
 
 [![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)
